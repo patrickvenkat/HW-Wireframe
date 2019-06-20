@@ -1,8 +1,8 @@
 body{
-    background-color:#777777;
+    background-color:#777;
     width: 960px;
     font-size: 18px;
-    color: #777777;
+    color: #777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
@@ -20,7 +20,7 @@ nav{
     background-color:#ebebeb;
     text-align: center;
     padding: 20px 15px 0px 15px;
-    margin: 10px 50px 5px 50px;
+    margin: 10px 50px 15px 50px;
     align-self: center;
 }
 
@@ -36,7 +36,7 @@ section{
 
 article{
     height: 200px;
-    background-color: #777777;
+    background-color: #777;
     align-content: center;
     text-align: center;
     padding: 15px 10px 0px 10px;
@@ -45,12 +45,12 @@ article{
 }
 
 aside{
-    width: 355px;
+    width: 345px;
     height: 300px;
     background-color:#ebebeb;
     align-content: center;
     text-align: center;
-    margin: 5px 50px 0px 0px;
+    margin: 5px 50px 0px 10px;
     float: left;
     display: inline-block;
 }
@@ -60,9 +60,9 @@ aside{
     background-color:#ebebeb;
     align-content: center;
     text-align: center;
-    padding: 15px 10px 0px 10px;
-    margin: 10px 50px 5px 50px;
-    color:#777777;
+    padding: 3px 10px 17px 10px;
+    margin: 10px 20px 10px 20px;
+    color:#777;
 }
 
 .clearfix::after {
@@ -75,5 +75,5 @@ aside{
     padding: 20px 15px 0px 15px;
     margin: 0px 50px 5px 50px;
     align-self: center;
-    color: #777777;
+    color: #777;
   }
